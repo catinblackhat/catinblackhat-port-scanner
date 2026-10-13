@@ -1,0 +1,2 @@
+# Optional styled ASCII banner; scanner.py has a plain-text fallback.
+pyfiglet>=1.0.2,<2.0.0
